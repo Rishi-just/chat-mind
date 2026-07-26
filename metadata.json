@@ -1,0 +1,6 @@
+{
+  "name": "ChatMind",
+  "description": "AI Conversation Intelligence for analyzing exported chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
