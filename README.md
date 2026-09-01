@@ -1,12 +1,4 @@
-# 🧠 ChatMind - AI WhatsApp & Chat Export Analyzer
 
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
-[![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue.svg)](https://kotlinlang.org/)
-[![Built with AI](https://img.shields.io/badge/Built%20with-AI%20Intelligence-purple.svg)](#-built-with-ai-intelligence)
-
-**ChatMind** is an Android application that parses WhatsApp chat exports (`.txt` / `.zip`) and transforms long, cluttered conversations into structured **Executive Summaries**, **Topics**, **Actionable Tasks**, and **Key Decisions** using Multi-Provider AI (Google Gemini, Groq AI Free Llama 3.3, and OpenAI).
-
-> ✨ **Made with AI Intelligence**: Built collaboratively with Google DeepMind's Antigravity Agentic AI Assistant.
 
 ---
 
